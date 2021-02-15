@@ -1,0 +1,3158 @@
+Waf: Entering directory `/home/kitagawa/ns-3.29/build'
+Waf: Leaving directory `/home/kitagawa/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (3.362s)
+Nodes created
+Devices installed
+mobility set 
+Internet Stack installed
+
+
+broadcast send start
+In recvBroadcast(Node 16)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 16
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 2
+instruction=0
+In send2(Node 16)
+hop = 2
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 42
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 1)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 3
+instruction=0
+In send2(Node 1)
+hop = 2
+nodeId3 = 17
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 37)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 16
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 4
+instruction=0
+In send2(Node 37)
+hop = 2
+nodeId3 = 16
+nodeId3 = 17
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 32
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 49)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 49
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 5
+instruction=0
+In send2(Node 49)
+hop = 2
+nodeId3 = 17
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 50
+In recvBroadcast(Node 4)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 4
+車両minNodeId3 = 4
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 6
+instruction=0
+In send2(Node 4)
+hop = 2
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 50)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 50
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 7
+instruction=0
+In send2(Node 50)
+hop = 2
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 26)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 26
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 8
+instruction=0
+In send2(Node 26)
+hop = 2
+nodeId3 = 17
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 30)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 30
+車両minNodeId3 = 30
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 9
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 14
+車両minNodeId3 = 14
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 9
+instruction=0
+In recvBroadcast(Node 2)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 2
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 9
+instruction=0
+In send2(Node 2)
+hop = 2
+nodeId3 = 17
+nodeId3 = 22
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 32
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 17)
+sequence = 1
+sourceId = 0
+路側機minNodeId = 0
+車両minNodeId3 = 17
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 10
+instruction=0
+In send2(Node 17)
+hop = 2
+nodeId3 = 22
+nodeId3 = 25
+nodeId3 = 32
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 29
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In recvBroadcast(Node 5)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 5
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 11
+instruction=0
+In send2(Node 5)
+hop = 3
+nodeId3 = 14
+nodeId3 = 17
+nodeId3 = 21
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 34
+nodeId3 = 35
+nodeId3 = 38
+nodeId3 = 39
+nodeId3 = 41
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+nodeId3 = 51
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 7
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 12
+instruction=0
+In send2(Node 7)
+hop = 3
+nodeId3 = 14
+nodeId3 = 19
+nodeId3 = 21
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 41
+nodeId3 = 45
+nodeId3 = 50
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 37
+路側機minNodeId = 32
+車両minNodeId3 = 37
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 13
+instruction=0
+In send2(Node 6)
+hop = 4
+nodeId3 = 13
+nodeId3 = 22
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 51
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 22)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 35
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 8
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 39
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 14
+instruction=0
+In send2(Node 10)
+hop = 4
+nodeId3 = 15
+nodeId3 = 19
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 45
+nodeId3 = 47
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 36
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 19
+車両minNodeId3 = 21
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 24
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In recvBroadcast(Node 11)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 11
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 15
+instruction=0
+In send2(Node 11)
+hop = 5
+nodeId3 = 15
+nodeId3 = 18
+nodeId3 = 19
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 28
+nodeId3 = 36
+nodeId3 = 39
+nodeId3 = 41
+nodeId3 = 48
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 16
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 16
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 16
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 16
+instruction=0
+In recvBroadcast(Node 9)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 9
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 16
+instruction=0
+In send2(Node 9)
+hop = 5
+nodeId3 = 13
+nodeId3 = 18
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 28
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 41
+nodeId3 = 48
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 2)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 26
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 28)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 48
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 52
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 18)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In recvBroadcast(Node 0)
+In recvBroadcast(Node 49)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 0
+車両minNodeId3 = 49
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 17
+instruction=0
+In send2(Node 49)
+hop = 3
+nodeId3 = 17
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 50
+In recvBroadcast(Node 16)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 18
+instruction=0
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 18
+instruction=0
+In recvBroadcast(Node 26)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 18
+instruction=0
+In recvBroadcast(Node 2)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 0
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 18
+instruction=0
+In send2(Node 2)
+hop = 3
+nodeId3 = 17
+nodeId3 = 22
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 32
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 19
+instruction=0
+In send2(Node 4)
+hop = 3
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 20
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 0
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 20
+instruction=0
+In send2(Node 50)
+hop = 3
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 38
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 30
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 14
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 44
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 31
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 1
+路側機minNodeId = 43
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 1)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 4
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 0)
+In recvBroadcast(Node 16)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 26)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In recvBroadcast(Node 2)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 0
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 21
+instruction=0
+In send2(Node 2)
+hop = 3
+nodeId3 = 17
+nodeId3 = 22
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 32
+nodeId3 = 34
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 38
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 44
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 43
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 30
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 22
+instruction=0
+In send2(Node 4)
+hop = 3
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 34
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 23
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 0
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 23
+instruction=0
+In send2(Node 50)
+hop = 3
+nodeId3 = 14
+nodeId3 = 25
+nodeId3 = 26
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 37
+nodeId3 = 38
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 31
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 14
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 25
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 26)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In recvBroadcast(Node 3)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 3
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 24
+instruction=0
+In send2(Node 3)
+hop = 4
+nodeId3 = 17
+nodeId3 = 22
+nodeId3 = 32
+nodeId3 = 34
+nodeId3 = 38
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 46
+In recvBroadcast(Node 46)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 22)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 29
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 7
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 25
+instruction=0
+In send2(Node 7)
+hop = 4
+nodeId3 = 14
+nodeId3 = 19
+nodeId3 = 21
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 41
+nodeId3 = 45
+nodeId3 = 50
+In recvBroadcast(Node 16)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 29
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 1)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 4
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In recvBroadcast(Node 5)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 5
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 26
+instruction=0
+In send2(Node 5)
+hop = 4
+nodeId3 = 14
+nodeId3 = 17
+nodeId3 = 21
+nodeId3 = 25
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 34
+nodeId3 = 35
+nodeId3 = 38
+nodeId3 = 39
+nodeId3 = 41
+nodeId3 = 42
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 49
+nodeId3 = 50
+nodeId3 = 51
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 7
+車両minNodeId3 = 7
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 27
+instruction=0
+In send2(Node 7)
+hop = 4
+nodeId3 = 14
+nodeId3 = 19
+nodeId3 = 21
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 41
+nodeId3 = 45
+nodeId3 = 50
+In recvBroadcast(Node 0)
+In recvBroadcast(Node 49)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 28
+instruction=0
+In recvBroadcast(Node 16)
+sequence = 127
+sourceId = 4
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 28
+instruction=0
+In recvBroadcast(Node 46)
+sequence = 127
+sourceId = 3
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 28
+instruction=0
+In recvBroadcast(Node 22)
+sequence = 127
+sourceId = 3
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 28
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 3
+路側機minNodeId = 6
+車両minNodeId3 = 6
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 28
+instruction=0
+In send2(Node 6)
+hop = 5
+nodeId3 = 13
+nodeId3 = 22
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 3
+路側機minNodeId = 51
+車両minNodeId3 = 51
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 29
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 29
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 29
+instruction=0
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 7
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 29
+instruction=0
+In send2(Node 7)
+hop = 4
+nodeId3 = 14
+nodeId3 = 19
+nodeId3 = 21
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 41
+nodeId3 = 45
+nodeId3 = 50
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 49
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 30
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 30
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 30
+instruction=0
+In recvBroadcast(Node 9)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 9
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 30
+instruction=0
+In send2(Node 9)
+hop = 6
+nodeId3 = 13
+nodeId3 = 18
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 28
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 41
+nodeId3 = 48
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 26)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 32)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 37)
+sequence = 127
+sourceId = 2
+路側機minNodeId = 2
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 29
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 7
+車両minNodeId3 = 7
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 31
+instruction=0
+In send2(Node 7)
+hop = 4
+nodeId3 = 14
+nodeId3 = 19
+nodeId3 = 21
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 41
+nodeId3 = 45
+nodeId3 = 50
+In recvBroadcast(Node 16)
+sequence = 127
+sourceId = 50
+路側機minNodeId = 4
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 28)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 52)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 41)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 52
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 8)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 12)
+arrived destination node, complete.
+lasthop = 7
+lastsource = 9
+In recvBroadcast(Node 21)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 23)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 18
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 18)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 48)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 20)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 32
+instruction=0
+In send2(Node 10)
+hop = 5
+nodeId3 = 15
+nodeId3 = 19
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 45
+nodeId3 = 47
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 36
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 19
+車両minNodeId3 = 21
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 24
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 38)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 2)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 33
+instruction=0
+In send2(Node 6)
+hop = 5
+nodeId3 = 13
+nodeId3 = 22
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 43
+nodeId3 = 44
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 17)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 26)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 51
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 34)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 42)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 22)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 6
+車両minNodeId3 = 35
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 8
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 5
+路側機minNodeId = 39
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 22)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 35
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 46)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 35
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 3)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 5)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In recvBroadcast(Node 9)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 9
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 34
+instruction=0
+In send2(Node 9)
+hop = 6
+nodeId3 = 13
+nodeId3 = 18
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 28
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 41
+nodeId3 = 48
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 9
+車両minNodeId3 = 40
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 43)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 44)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 6
+車両minNodeId3 = 22
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 6
+路側機minNodeId = 5
+車両minNodeId3 = 25
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 10
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In recvBroadcast(Node 11)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 11
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 35
+instruction=0
+In send2(Node 11)
+hop = 6
+nodeId3 = 15
+nodeId3 = 18
+nodeId3 = 19
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 28
+nodeId3 = 36
+nodeId3 = 39
+nodeId3 = 41
+nodeId3 = 48
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 28)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 52
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 18)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In recvBroadcast(Node 8)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 36
+instruction=0
+In send2(Node 8)
+hop = 5
+nodeId3 = 13
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 25
+nodeId3 = 27
+nodeId3 = 28
+nodeId3 = 30
+nodeId3 = 31
+nodeId3 = 33
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 41
+nodeId3 = 48
+nodeId3 = 52
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 37
+instruction=0
+In send2(Node 10)
+hop = 5
+nodeId3 = 15
+nodeId3 = 19
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 45
+nodeId3 = 47
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 36
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 21)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 19
+車両minNodeId3 = 21
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 41)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 41
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 24
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 41)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 21)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 9
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 5)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 8
+車両minNodeId3 = 39
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In recvBroadcast(Node 9)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 9
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 38
+instruction=0
+In send2(Node 9)
+hop = 6
+nodeId3 = 13
+nodeId3 = 18
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 28
+nodeId3 = 35
+nodeId3 = 39
+nodeId3 = 40
+nodeId3 = 41
+nodeId3 = 48
+nodeId3 = 51
+nodeId3 = 52
+In recvBroadcast(Node 25)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 28)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 28
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 52)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 52
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 20)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 20
+車両minNodeId3 = 48
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 48)
+sequence = 127
+sourceId = 8
+路側機minNodeId = 48
+車両minNodeId3 = 48
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 40)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 28)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 52)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 13)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 35)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 51)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 28
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 6)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 9
+車両minNodeId3 = 52
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 12)
+arrived destination node, complete.
+lasthop = 7
+lastsource = 9
+In recvBroadcast(Node 23)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 18
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 18)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 48)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 20)
+sequence = 127
+sourceId = 9
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 14)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 4)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 39
+instruction=0
+In send2(Node 10)
+hop = 5
+nodeId3 = 15
+nodeId3 = 19
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 29
+nodeId3 = 33
+nodeId3 = 36
+nodeId3 = 45
+nodeId3 = 47
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 36
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 50)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 7
+車両minNodeId3 = 31
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 19
+車両minNodeId3 = 21
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 30)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 31)
+sequence = 127
+sourceId = 7
+路側機minNodeId = 8
+車両minNodeId3 = 41
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 45)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 27)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 7)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 10
+車両minNodeId3 = 33
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In recvBroadcast(Node 11)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 11
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 40
+instruction=0
+In send2(Node 11)
+hop = 6
+nodeId3 = 15
+nodeId3 = 18
+nodeId3 = 19
+nodeId3 = 20
+nodeId3 = 21
+nodeId3 = 23
+nodeId3 = 24
+nodeId3 = 27
+nodeId3 = 28
+nodeId3 = 36
+nodeId3 = 39
+nodeId3 = 41
+nodeId3 = 48
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 29)
+sequence = 127
+sourceId = 10
+路側機minNodeId = 10
+車両minNodeId3 = 24
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 33)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 15)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 20)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 24)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 48)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 19)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 48
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 8)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 10)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 12)
+arrived destination node, complete.
+lasthop = 7
+lastsource = 11
+In recvBroadcast(Node 36)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 41)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 47)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 15
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 21)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 11
+車両minNodeId3 = 20
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 23)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 18
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 39)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+In recvBroadcast(Node 52)
+sequence = 127
+sourceId = 11
+路側機minNodeId = 12
+車両minNodeId3 = 23
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sum_TxCount is 41
+instruction=0
+
+左
+RxCount is 3
+RxCount4 is 8
+RxCount7 is 7
+RxCount10 is 6
+RxCount11 is 3
+右
+RxCount is 3
+RxCount2 is 5
+RxCount3 is 2
+RxCount6 is 7
+RxCount9 is 4
+ジグザグ
+RxCount is 3
+RxCount4 is 8
+RxCount5 is 4
+RxCount8 is 3
+RxCount9 is 4
+真ん中
+RxCount is 3
+RxCount2 is 5
+RxCount5 is 4
+RxCount8 is 3
+RxCount11 is 3
+目的ノード受信数 3
+
+end of simulation

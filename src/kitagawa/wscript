@@ -1,0 +1,34 @@
+## -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    module = bld.create_ns3_module('kitagawa', ['internet', 'wifi'])
+    module.includes = '.'
+    module.source = [
+        'model/kitagawa-packet.cc',
+        'model/kitagawa-routing-protocol.cc',
+        'helper/kitagawa-helper.cc',
+        #'model/packet-loss-counter.cc',
+        ]
+
+    #sample_test = bld.create_ns3_module_test_library('sample')
+   # sample_test.source = [
+      #  'test/sample-id-cache-test-suite.cc',
+       # 'test/sample-test-suite.cc',
+       # 'test/sample-regression.cc',
+       # 'test/bug-772.cc',
+       # 'test/loopback.cc',
+       # ]
+
+    headers = bld(features='ns3header')
+    headers.module = 'kitagawa'
+    headers.source = [
+        'model/kitagawa-packet.h',
+        'model/kitagawa-routing-protocol.h',
+        'helper/kitagawa-helper.h',
+        #'model/packet-loss-counter.h',
+        ]
+
+    #if bld.env['ENABLE_EXAMPLES']:
+     #   bld.recurse('examples')
+
+   # bld.ns3_python_bindings()
